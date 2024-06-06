@@ -1,3 +1,8 @@
+""" 
+hike_reviews.py
+This program allows the user to input a link to a hike on hikingupward.com, and then 
+summarizes what hikers liked and disliked about the hike based on the comments.
+"""
 import requests
 import bs4
 import regex as re
