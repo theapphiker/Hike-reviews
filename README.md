@@ -1,5 +1,5 @@
-# Hike-reviews
-Python script that allows the user to input a link to a hike on hikingupward.com, and then summarizes what hikers liked and disliked about the hike based on the comments. The script classifies the comments using a pre-trained Naive Bayes model, and then extracts the most common adjectives used to describe the hike. This project is a work in progress, and I am working to improve the model and the summary.
+# Hike-reviews[
+Python script that allows the user to input a link to a hike on <a href='https://www.hikingupward.com/'>hikingupward.com</a>, and then summarizes what hikers liked and disliked about the hike based on the comments. The script classifies the comments using a pre-trained Naive Bayes model, and then extracts the most common adjectives used to describe the hike. This project is a work in progress, and I am working to improve the model and the summary.
 
 <h2>Requirements</h2>
 
